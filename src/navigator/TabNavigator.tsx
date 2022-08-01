@@ -85,7 +85,6 @@ const TabsIOS= ()=> {
           }
     })}
   
-    
     >
       <TabIOS.Screen name="TabScreen" options={{ title:"Titulo tab 1" }} component={TabScreen} />
       <TabIOS.Screen name="TabScreen2" options={{ title:"Titulo tab 2" }} component={TabScreen2} />
